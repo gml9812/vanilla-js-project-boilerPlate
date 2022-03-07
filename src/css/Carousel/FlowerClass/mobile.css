@@ -1,0 +1,134 @@
+@media (max-width: 1024px) {
+  .carousel_detail {
+    -webkit-text-size-adjust: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    letter-spacing: -0.5px;
+    outline-width: 1px;
+    position: relative;
+    padding-left: 160px;
+    padding-bottom: 0;
+  }
+
+  .carousel_thumbnail {
+    -webkit-text-size-adjust: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    letter-spacing: -0.5px;
+    outline-width: 1px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 144px;
+  }
+
+  .carousel_link {
+    -webkit-text-size-adjust: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    letter-spacing: -0.5px;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline-width: 1px;
+    display: block;
+    background: #fafafa;
+    background-image: url('https://kukka-2-media-123.s3.amazonaws.com/media/class-name/ClassProductGroup/106/img_%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4-%EB%A6%AC%EC%8A%A4.jpg');
+  }
+
+  .carousel_name_2 {
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    box-sizing: border-box;
+    background-color: transparent;
+    text-decoration: none;
+    outline-width: 1px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    letter-spacing: -0.21px;
+    color: #222;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    cursor: pointer;
+    margin-top: 1px;
+  }
+
+  .carousel_name_2:hover {
+    text-decoration: underline;
+    color: #222;
+  }
+
+  .carousel_summary {
+    -webkit-text-size-adjust: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    box-sizing: border-box;
+    margin: 0;
+    letter-spacing: -0.5px;
+    outline-width: 1px;
+    display: block;
+    height: auto;
+    min-height: 105px;
+    padding: 0;
+  }
+
+  .carousel_discount {
+    -webkit-text-size-adjust: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    letter-spacing: -0.5px;
+    box-sizing: border-box;
+    display: block;
+    margin-top: 10px;
+  }
+
+  .carousel_price {
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    letter-spacing: -0.21px;
+    color: #222;
+    vertical-align: middle;
+  }
+
+  .carousel_showroom {
+    -webkit-text-size-adjust: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'Noto Sans KR', sans-serif, NanumGothic, '나눔고딕', Dotum, '돋움', Helvetica, 'Apple SD Gothic Neo';
+    list-style: none;
+    letter-spacing: -0.5px;
+    box-sizing: border-box;
+    display: block;
+    left: 0;
+    position: relative;
+    bottom: inherit;
+    margin-top: 10px;
+  }
+}

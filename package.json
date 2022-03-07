@@ -1,0 +1,27 @@
+{
+  "name": "wanted-performance-by-tbwa",
+  "version": "1.0.0",
+  "description": "원티드 프리온보딩 코스 퍼포먼스바이 TBWA 미션입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gml9812/wanted-performance-by-TBWA.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gml9812/wanted-performance-by-TBWA/issues"
+  },
+  "homepage": "https://github.com/gml9812/wanted-performance-by-TBWA#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
