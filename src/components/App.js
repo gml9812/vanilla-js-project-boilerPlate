@@ -9,9 +9,8 @@ export default function App($target) {
       this.setState({
         isLoading: true,
       });
-      const { currentNode } = this.$state.currentNode;
+      const { currentNode } = this.$state;
       const nodeList = await requests(currentNode);
-      console.log(nodeList);
       this.setState({
         isLoading: false,
         nodeList,
